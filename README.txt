@@ -1,0 +1,1 @@
+Will be updating this readme to be a placeholder for a todo list for building out the rest of the website. NOTE: Do not forget to add React.
